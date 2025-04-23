@@ -1,0 +1,7 @@
+{
+  "id": "abc123",
+  "action": "DELETE",
+  "path": "/api/v1/namespaces/prod/pods/foo",
+  "requested_by": "plut0-proxy",
+  "time": "2025-04-23T12:34:39+02:00"
+}
